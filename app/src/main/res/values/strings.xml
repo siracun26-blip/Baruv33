@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SubPlayer</string>
+    <string name="app_full_title">SubPlayer Offline &amp; Online</string>
+    <string name="status_initial">Pilih video dan file .srt untuk mulai</string>
+    <string name="label_auto">Auto</string>
+    <string name="label_video">Video</string>
+    <string name="label_srt">SRT</string>
+    <string name="label_save">Simpan</string>
+    <string name="label_close">Tutup</string>
+    <string name="label_cancel">Batal</string>
+    <string name="cd_pack_manager">Paket Unduhan Bahasa</string>
+    <string name="cd_mode_settings">Mode Online/Offline</string>
+    <string name="cd_swap_languages">Tukar Bahasa</string>
+    <string name="cd_play_pause">Play/Pause</string>
+    <string name="cd_copy_url">Salin Link Paket</string>
+    <string name="cd_open_url">Buka Link Download</string>
+    <string name="cd_delete_pack">Hapus Paket Offline</string>
+    <string name="cd_download_pack">Unduh ke Perangkat</string>
+    <string name="title_pack_manager">Paket Bahasa Offline &amp; Link Download</string>
+    <string name="title_translation_settings">Pengaturan Terjemahan</string>
+    <string name="title_pick_source">Pilih Bahasa Asal</string>
+    <string name="title_pick_target">Pilih Bahasa Tujuan</string>
+    <string name="hint_search_language">Cari bahasa atau kode...</string>
+    <string name="label_official_catalog">Katalog Resmi</string>
+    <string name="label_choose_engine">Pilih Mesin Terjemahan:</string>
+    <string name="label_gemini_api_key">Gemini API Key (Opsional untuk Online):</string>
+    <string name="hint_gemini_api_key">AIza... (kosongkan untuk server standar)</string>
+    <string name="label_offline_downloaded">Paket offline terunduh</string>
+</resources>
